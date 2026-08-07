@@ -6,10 +6,7 @@
 <!-- 
 <img src="https://readme-typing-svg.demolab.com font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=NOC+%2B+Network+Automation;Building+AI+Agents+for+Telecom+Ops;Python+%7C+n8n+%7C+Kubernetes+%7C+APIs" alt="Typing SVG" />
 -->
-</div>
-
 <!-- Esto es un salto de linea -->
-<br>
 
 ## 📡 About Me
 
@@ -60,19 +57,13 @@
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1194510249&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile"/>
 
 </div>
-<br>
-
-</div>
 
 ## 📫 Connect
 
+<div align="center">
 <a href="https://github.com/didac17"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/diegogabrielmartinez/"><img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/didac.music/"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://steamcommunity.com/profiles/76561198302625514/"><img src="https://img.shields.io/badge/Steam-0a0a0a?style=for-the-badge&logo=steam&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A73E8,50:0D47A1,100:0a0a0a&height=100&section=footer" width="100%"/>
-
 </div>
+
