@@ -66,8 +66,10 @@
 
 ## 📫 Connect
 
-<img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LinkedIn-1A73E8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/didac17"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/diegogabrielmartinez/"><img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/didac.music/"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://steamcommunity.com/profiles/76561198302625514/"><img src="https://img.shields.io/badge/Steam-0a0a0a?style=for-the-badge&logo=steam&logoColor=white"/></a>
 
 <br><br>
 
