@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1194510249&redirect=true&cover_image=true&theme=novatorem&bar_color=1A73E8&bar_color_cover=true&background_color=0a0a0a"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1194510249&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile"/>
 
 </div>
 <br>
