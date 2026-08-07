@@ -7,7 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=NOC+%2B+Network+Automation;Building+AI+Agents+for+Telecom+Ops;Python+%7C+n8n+%7C+Kubernetes+%7C+APIs" alt="Typing SVG" />
 -->
 <!-- Esto es un salto de linea -->
-
+</div>
+  
 ## 📡 About Me
 
 - 🛰️ Telecommunications Engineer specialized in **IP Networks & Radio**, working from a **NOC (Network Operations Center)** environment
