@@ -47,6 +47,7 @@
 
 ## 📊 GitHub Stats
 
+<!-- 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=didac17&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=1A73E8&icon_color=1A73E8&text_color=ffffff&ring_color=1A73E8"/>
@@ -59,7 +60,7 @@
 </div>
 
 <br>
-
+-->
 ## 🎧 Now Playing
 
 <div align="center">
