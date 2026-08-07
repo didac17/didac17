@@ -42,25 +42,18 @@
 <img src="https://img.shields.io/badge/Proxmox-0D47A1?style=for-the-badge&logo=proxmox&logoColor=white"/>
 
 </div>
-
 <br>
 
 ## 📊 GitHub Stats
 
-<!-- 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=didac17&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=1A73E8&icon_color=1A73E8&text_color=ffffff&ring_color=1A73E8"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didac17&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=1A73E8&text_color=ffffff&langs_count=8"/>
-
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=didac17&hide_border=true&background=0a0a0a&stroke=1A73E8&ring=1A73E8&fire=1A73E8&currStreakLabel=1A73E8&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8AB4F8"/>
 
 </div>
-
 <br>
--->
+
 ## 🎧 Now Playing
 
 <div align="center">
@@ -69,7 +62,6 @@
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true&cover_image=true&theme=novatorem&bar_color=1A73E8&bar_color_cover=true&background_color=0a0a0a"/>
 
 </div>
-
 <br>
 
 <div align="center">
