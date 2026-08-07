@@ -34,7 +34,6 @@
 <br>
 <img src="https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white"/>
 
-
 **Infrastructure & Networking**
 <br>
 <img src="https://img.shields.io/badge/MikroTik-0D47A1?style=for-the-badge&logo=mikrotik&logoColor=white"/>
@@ -59,7 +58,7 @@
 <div align="center">
 
 <!-- Reemplaza YOUR_SPOTIFY_UID tras registrarte en https://spotify-github-profile.vercel.app -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true&cover_image=true&theme=novatorem&bar_color=1A73E8&bar_color_cover=true&background_color=0a0a0a"/>
+<img src="https://spotify-github-profile.kittinanx.com,/api/view?uid=YOUR_SPOTIFY_UID&redirect=true&cover_image=true&theme=novatorem&bar_color=1A73E8&bar_color_cover=true&background_color=0a0a0a"/>
 
 </div>
 <br>
