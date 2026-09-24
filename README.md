@@ -51,7 +51,7 @@
 </div>
 <br>
 
-## 🎧 Now Playing
+## 🎧 Know my taste! (always changing)
 
 <div align="center">
 
